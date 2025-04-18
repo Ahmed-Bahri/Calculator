@@ -1,2 +1,2 @@
-# calculator.py
-print("Hello, world!")
+def addition(x,y):
+    return x+y
